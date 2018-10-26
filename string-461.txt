@@ -1,0 +1,12 @@
+* The Tor Project / Tor Project Support & Community Portal / Support portal - content.pot / string 461 *
+
+ORIGINAL TEXT
+-------------
+Obfsproxy bridges address this by adding another layer of obfuscation.
+
+TRANSLATION
+-----------
+Мосты Obfsproxy решают эту проблему, добавляя еще один слой запутанности.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
