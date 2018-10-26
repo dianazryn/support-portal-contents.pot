@@ -1,0 +1,15 @@
+* The Tor Project / Tor Project Support & Community Portal / Support portal - content.pot / string 569 *
+
+ORIGINAL TEXT
+-------------
+to advance human rights and freedoms by creating and deploying free and open source anonymity and privacy
+technologies, supporting their unrestricted availability and use, and furthering their scientific and
+popular understanding.
+
+TRANSLATION
+-----------
+продвижение прав и свобод человека путем создания и внедрения бесплатных технологий анонимности и
+конфиденциальности с открытым исходным кодом, поддержка их неограниченной доступности и использования,
+а также содействие их научному и общественному пониманию. 
+
+// (c) Diana Azaryan @dianazryn, 2018.
