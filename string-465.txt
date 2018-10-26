@@ -1,0 +1,12 @@
+* The Tor Project / Tor Project Support & Community Portal / Support portal - content.pot / string 465 *
+
+ORIGINAL TEXT
+-------------
+Send an email to gettor@torproject.org.
+
+TRANSLATION
+-----------
+Отправьте электронное письмо на gettor@torproject.org.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
