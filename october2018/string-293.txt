@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 293 *
+
+ORIGINAL TEXT
+-------------
+No, we don't provide any online services.
+
+TRANSLATION
+-----------
+Нет, мы не предоставляем никаких онлайн-услуг.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
