@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 304 *
+
+ORIGINAL TEXT
+-------------
+If you see lines like this in your Tor log, it means your system clock is incorrect.
+
+TRANSLATION
+-------------
+Если вы видите такие строки в вашем логе Tor, это означает, что ваши системные часы установлены неверно.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
