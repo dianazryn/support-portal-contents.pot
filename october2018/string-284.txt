@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 284 *
+
+ORIGINAL TEXT
+-------------
+When is Tor Browser for Android being released?
+
+TRANSLATION
+-----------
+Когда выходит Tor Browser для Android?
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
