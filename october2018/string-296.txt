@@ -1,0 +1,16 @@
+* The Tor Project / Support portal - content.pot / string 296 *
+
+ORIGINAL TEXT
+-------------
+When accessing a website that uses an onion service, Tor Browser will show at the URL bar
+an icon of a little green onion displaying the state of your connection: secure and using
+an onion service.
+
+TRANSLATION
+-----------
+Заходя на веб-сайт, который использует onion-сервис, Tor Browser покажет в адресной строке
+значок маленького зеленого лука, который показывает состояние вашего соединения: «безопасно»
+и «используется onion-сервис».
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
