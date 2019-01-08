@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 254 *
+
+ORIGINAL TEXT
+-------------
+In Tor Browser, every new domain gets its own circuit.
+
+TRANSLATION
+-----------
+В Tor Browser каждый новый домен получает свою цепочку.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
