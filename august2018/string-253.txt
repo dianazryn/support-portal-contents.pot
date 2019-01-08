@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 253 *
+
+ORIGINAL TEXT
+-------------
+Does Tor Browser use a different circuit for each website?
+
+TRANSLATION
+-----------
+Использует ли Tor Browser различные цепочки для каждого сайта?
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
