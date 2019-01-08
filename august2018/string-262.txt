@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 262 *
+
+ORIGINAL TEXT
+-------------
+Why does my Tor Browser say something about Firefox not working?
+
+TRANSLATION
+-----------
+Почему мой Tor Browser сообщает что-то о том, что Firefox не работает?
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
