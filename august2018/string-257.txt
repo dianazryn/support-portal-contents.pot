@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 257 *
+
+ORIGINAL TEXT
+-------------
+Why did my search engine switch to DuckDuckGo?
+
+TRANSLATION
+-----------
+Почему моя поисковая система поменялась на DuckDuckGo?
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
