@@ -1,0 +1,15 @@
+* The Tor Project / Support portal - content.pot / string 278 *
+
+ORIGINAL TEXT
+-------------
+"Hi! I tried to access your site xyz.com while using Tor Browser and
+discovered that you don't allow Tor users to access your site.
+
+TRANSLATION
+-----------
+"Здравствуйте! Я пытался получить доступ к вашему сайту xyz.com во время
+использования Tor Browser и обнаружил, что вы не позволяете пользователям
+Tor получить доступ к вашему сайту.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
