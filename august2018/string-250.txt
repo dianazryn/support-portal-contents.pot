@@ -1,0 +1,16 @@
+* The Tor Project / Support portal - content.pot / string 250 *
+
+ORIGINAL TEXT
+-------------
+While it is technically possible to use Tor with other browsers, you may
+open yourself up to potential attacks or information leakage, so we strongly
+discourage it.
+
+TRANSLATION
+-----------
+Хотя технически возможно использовать Tor с другими браузерами, вы можете
+подвергнуть себя потенциальным атакам или утечкам информации, следовательно
+мы настоятельно рекомендуем этого не делать.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
