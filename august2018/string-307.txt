@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 307 *
+
+ORIGINAL TEXT
+-------------
+Learn more about Onion Browser.
+
+TRANSLATION
+-----------
+Узнайте больше об Onion Browser.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
