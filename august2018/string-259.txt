@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 259 *
+
+ORIGINAL TEXT
+-------------
+For a while now, Disconnect has had no access to Google search results which we used in Tor Browser.
+
+TRANSLATION ! this is only a suggestion !
+-----------
+Уже некоторое время Disconnect не имеет доступа к результатам поиска Google, которые мы использовали в Tor Browser.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
