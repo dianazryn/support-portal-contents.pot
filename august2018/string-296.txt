@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 296 *
+
+ORIGINAL TEXT
+-------------
+Can I run Tor on an Android device?
+
+TRANSLATION
+-----------
+Могу ли я запустить Tor на устройстве Android?
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
