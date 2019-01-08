@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 298 *
+
+ORIGINAL TEXT
+-------------
+More information can be found on the Orbot and Orfox web pages.
+
+TRANSLATION
+-----------
+Более подробную информацию вы можете найти на веб-сайтах Orbot и Orfox.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
