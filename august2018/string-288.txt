@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 288 *
+
+ORIGINAL TEXT
+-------------
+We strongly recommend against using Tor in any browser other than Tor Browser.
+
+TRANSLATION
+-----------
+Мы настоятельно рекомендуем не использовать Tor в каком-либо браузере, кроме Tor Browser.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
