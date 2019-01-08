@@ -1,0 +1,14 @@
+* The Tor Project / Support portal - content.pot / string 276 *
+
+ORIGINAL TEXT
+-------------
+The best success we've had in getting sites to unblock Tor users is getting users
+to contact the site administrators directly.
+
+TRANSLATION ! this is only a suggestion !
+-----------
+Наибольший успех, который мы имели в разблокировке сайтами пользователей Tor, это
+напрямую связаться с администраторами сайт.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
