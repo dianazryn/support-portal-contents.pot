@@ -1,0 +1,14 @@
+* The Tor Project / Support portal - content.pot / string 275 *
+
+ORIGINAL TEXT
+-------------
+Sometimes websites will block Tor users because they can't tell the difference
+between the average Tor user and automated traffic.
+
+TRANSLATION
+-----------
+Иногда сайты блокируют пользователей Tor, потому что они не видят разницы между
+среднестатистическим пользователем Tor и автоматизированным трафиком.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
