@@ -1,0 +1,14 @@
+* The Tor Project / Support portal - content.pot / string 306 *
+
+ORIGINAL TEXT
+-------------
+However, Apple requires browsers on iOS to use something called Webkit, which prevents
+Onion Browser from having the same privacy protections as Tor Browser.
+
+TRANSLATION
+-----------
+Тем не менее, Apple требует, чтобы браузеры на iOS использовали что-то под названием Webkit,
+что не позволяет Onion Browser иметь такую же защиту конфиденциальности, что и Tor Browser.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
