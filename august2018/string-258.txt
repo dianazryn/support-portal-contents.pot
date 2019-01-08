@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 258 *
+
+ORIGINAL TEXT
+-------------
+With the release of Tor Browser 6.0.6, we switched to DuckDuckGo as the primary search engine.
+
+TRANSLATION
+-----------
+С выпуском Tor Browser 6.0.6 мы перешли на DuckDuckGo в качестве основной поисковой системы.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
