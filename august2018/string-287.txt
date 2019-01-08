@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 287 *
+
+ORIGINAL TEXT
+-------------
+Can I use Tor with a browser besides Tor Browser?
+
+TRANSLATION
+-----------
+Могу ли я использовать Tor с другим браузером помимо Tor Browser?
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
