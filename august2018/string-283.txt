@@ -1,0 +1,18 @@
+* The Tor Project / Support portal - content.pot / string 283 *
+
+ORIGINAL TEXT
+-------------
+In the case of banks, and other sensitive websites, it is also common to see
+geography-based blocking (if a bank knows you generally access their services
+from one country, and suddenly you are connecting from an exit relay on the
+other side of the world, your account may be locked or suspended).
+
+TRANSLATION
+-----------
+В случае банков и других конфиденциальных веб-сайтов также часто можно увидеть
+географическую блокировку (если банк знает, что вы обычно получаете доступ к своим
+услугам из одной страны, и вдруг вы подключаетесь из выходного узла на другом конце
+света, ваша учетная запись может быть заблокирована или приостановлена).
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
