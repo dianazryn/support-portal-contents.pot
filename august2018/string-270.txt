@@ -1,0 +1,16 @@
+* The Tor Project / Support portal - content.pot / string 270 *
+
+ORIGINAL TEXT
+-------------
+Be careful when switching back and forth between Tor and a less safe browser,
+because you may accidentally use the other browser for something you intended
+to do using Tor.
+
+TRANSLATION
+-----------
+Будьте осторожны при переключении между Tor и менее безопасным браузером,
+потому что вы можете случайно использовать другой браузер для чего-то,
+что вы намеревалисьсделать с помощью Tor.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
