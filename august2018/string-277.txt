@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 277 *
+
+ORIGINAL TEXT
+-------------
+Something like this might do the trick:
+
+TRANSLATION
+-----------
+Что-то подобное может помочь:
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
