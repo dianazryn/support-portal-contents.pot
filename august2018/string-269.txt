@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 269 *
+
+ORIGINAL TEXT
+-------------
+However, you should know that the privacy properties of Tor Browser will not be present in the other browser.
+
+TRANSLATION ! this is only a suggestion !
+-----------
+Тем не менее, вы должны знать, что свойства приватности Tor Browser не будут присутствовать в другом браузере.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
