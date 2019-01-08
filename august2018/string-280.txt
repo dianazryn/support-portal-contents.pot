@@ -1,0 +1,18 @@
+* The Tor Project / Support portal - content.pot / string 280 *
+
+ORIGINAL TEXT
+-------------
+By blocking Tor users, you are likely blocking people in repressive countries
+who want to use a free internet, journalists and researchers who want to protect
+themselves from discovery, whistleblowers, activists, and ordinary people who want
+to opt out of invasive third party tracking.
+
+TRANSLATION
+-----------
+Блокируя пользователей Tor, вы, скорее всего, блокируете людей в репрессивных странах,
+которые хотят использовать бесплатный интернет, журналистов и исследователей, которые
+хотят защитить себя от обнаружения, осведомителей, активистов и обычных людей, которые
+хотят отказаться от агрессивной сторонней слежки.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
