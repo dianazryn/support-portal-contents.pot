@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 297 *
+
+ORIGINAL TEXT
+-------------
+Tor on Android is provided by The Guardian Project.
+
+TRANSLATION
+-----------
+Tor на платформе Android представляет The Guardian Project.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
