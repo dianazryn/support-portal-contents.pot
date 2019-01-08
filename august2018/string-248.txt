@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 248 *
+
+ORIGINAL TEXT
+-------------
+Tor Browser is a modified version of Firefox specifically designed for use with Tor.
+
+TRANSLATION
+-----------
+Tor Browser является модифицированной версией Firefox, специально разработанной для использования с Tor.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
