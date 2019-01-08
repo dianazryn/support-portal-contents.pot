@@ -1,0 +1,15 @@
+* The Tor Project / Support portal - content.pot / string 302 *
+
+ORIGINAL TEXT
+-------------
+The Guardian Project maintains Tor (and other privacy applications) on Android.
+More info can be found on the Guardian Project's website.
+
+TRANSLATION
+-----------
+The Guardian Project поддерживает Tor (и другие приложения, ориентированные
+на приватность) на платформе Android. Более подробную информацию можно найти
+на сайте The Guardian Project.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
