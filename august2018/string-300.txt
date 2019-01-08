@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 300 *
+
+ORIGINAL TEXT
+-------------
+Who is the Guardian Project?
+
+TRANSLATION ! this is only a suggestion !
+-----------
+Кем является the Guardian Project?
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
