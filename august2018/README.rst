@@ -1,4 +1,4 @@
-**This repository is for my translations of the resource Support portal - content.pot'.**
+**This repository is for my translations of the resource 'Support portal - content.pot'.**
 
 Each file is a separate string of the resource file.
 
