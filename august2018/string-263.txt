@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 263 *
+
+ORIGINAL TEXT
+-------------
+Tor Browser is built using Firefox ESR, so errors regarding Firefox may occur.
+
+TRANSLATION
+-----------
+Tor Browser построен с использованием Firefox ESR, следовательно ошибки, касающиеся Firefox, могут возникнуть.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
