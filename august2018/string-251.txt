@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 251 *
+
+ORIGINAL TEXT
+-------------
+Learn more about the design of Tor Browser.
+
+TRANSLATION
+-----------
+Узнайте больше о дизайне Tor Browser.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
