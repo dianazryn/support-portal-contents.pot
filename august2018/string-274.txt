@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 274 *
+
+ORIGINAL TEXT
+-------------
+A website I am trying to reach is blocking access over Tor.
+
+TRANSLATION
+-----------
+Сайт, на который я пытаюсь попасть, блокирует доступ через Tor.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
