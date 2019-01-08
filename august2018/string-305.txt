@@ -1,0 +1,15 @@
+* The Tor Project / Support portal - content.pot / string 305 *
+
+ORIGINAL TEXT
+-------------
+We recommend an iOS app called Onion Browser, which is open source, uses Tor routing,
+and is developed by someone who works closely with the Tor Project.
+
+TRANSLATION
+-----------
+Мы рекомендуем приложение для iOS под названием Onion Browser, которое имеет открытый
+исходный код, использует маршрутизацию Tor и разработано человеком, который тесно
+сотрудничает с The Tor Project.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
