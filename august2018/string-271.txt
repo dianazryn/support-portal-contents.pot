@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 271 *
+
+ORIGINAL TEXT
+-------------
+Can I make Tor Browser my default browser?
+
+TRANSLATION
+-----------
+Могу ли я сделать Tor Browser браузером по умолчанию?
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
