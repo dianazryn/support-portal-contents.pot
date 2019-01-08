@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 292 *
+
+ORIGINAL TEXT
+-------------
+No. After eleven beta releases, we discontinued support of Tor Messenger.
+
+TRANSLATION
+-----------
+Нет. После одиннадцати бета-релизов мы прекратили поддержку Tor Messenger.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
