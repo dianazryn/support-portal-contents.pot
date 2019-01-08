@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 267 *
+
+ORIGINAL TEXT
+-------------
+Can I still use another browser, like Chrome or Firefox, when I am using Tor Browser?
+
+TRANSLATION
+-----------
+Могу ли я использовать другой браузер, к примеру Chrome или Firefox, когда я использую Tor Browser?
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
