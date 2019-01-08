@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 268 *
+
+ORIGINAL TEXT
+-------------
+You can certainly use another browser while you are also using Tor Browser.
+
+TRANSLATION ! this is only a suggestion !
+-----------
+Вы безусловно можете использовать другой браузер в то время как вы используете Tor Browser.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
