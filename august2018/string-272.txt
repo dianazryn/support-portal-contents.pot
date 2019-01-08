@@ -1,0 +1,12 @@
+* The Tor Project / Support portal - content.pot / string 272 *
+
+ORIGINAL TEXT
+-------------
+Unfortunately, there is no supported way to make Tor Browser your default browser.
+
+TRANSLATION ! this is only a suggestion !
+-----------
+К сожалению, нет никакого поддерживаемого способа, чтобы сделать Tor Browser браузером по умолчанию.
+
+
+// (c) Diana Azaryan @dianazryn, 2018.
